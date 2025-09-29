@@ -1,47 +1,32 @@
-# 🌐 Personal Website | وب‌سایت شخصی
+# 🌐 وب‌سایت شخصی
 
 ---
 
-## 🔗 Demo / پیش‌نمایش آنلاین
-- [View Online](https://aminsarshar.github.io/PersonalWebSite/)  
+## 🔗 پیش‌نمایش آنلاین
 - [مشاهده آنلاین](https://aminsarshar.github.io/PersonalWebSite/)
 
 ---
 
-## 🧰 Technologies / تکنولوژی‌ها
+## 🧰 تکنولوژی‌های استفاده‌شده
 - HTML5  
-- CSS3 (Responsive, Flexbox, Grid)  
+- CSS3 (Flexbox, Grid, Responsive)  
 - JavaScript (Vanilla)  
-- Hosting via GitHub Pages  
+- میزبانی روی GitHub Pages  
 
 ---
 
-## 📂 Project Structure / ساختار پروژه
+## 📂 ساختار پروژه
 ```text
 PersonalWebSite/
-│── index.html       # Home / صفحه اصلی
-│── about.html       # About / درباره من
-│── contact.html     # Contact / تماس
-│── assets/          # Images & Icons / تصاویر و آیکون‌ها
-│── css/             # Styles / استایل‌ها
-│── js/              # Scripts / اسکریپت‌ها
+│── index.html       # صفحه اصلی
+│── about.html       # درباره من
+│── contact.html     # تماس
+│── assets/          # تصاویر و آیکون‌ها
+│── css/             # استایل‌ها
+│── js/              # اسکریپت‌ها
 │── README.md
-✨ Features / ویژگی‌ها
-English:
-
-🎨 Modern, clean, responsive design
-
-🧑‍💻 About me & online resume section
-
-📂 Portfolio showcase
-
-📬 Contact links & social media integration
-
-🌍 Bilingual support (Persian & English)
-
-فارسی:
-
-🎨 طراحی مدرن، ساده و واکنش‌گرا
+✨ ویژگی‌ها
+🎨 طراحی ساده، مدرن و واکنش‌گرا
 
 🧑‍💻 بخش درباره من و رزومه آنلاین
 
@@ -51,24 +36,7 @@ English:
 
 🌍 پشتیبانی دو زبانه (فارسی و انگلیسی)
 
-🚀 How to Run / راه‌اندازی
-English:
-
-Clone the repo:
-
-bash
-Copy code
-git clone https://github.com/aminsarshar/PersonalWebSite.git
-Open the folder:
-
-bash
-Copy code
-cd PersonalWebSite
-Open index.html directly in your browser.
-(No build tools required)
-
-فارسی:
-
+🚀 راه‌اندازی
 کلون کردن مخزن:
 
 bash
@@ -79,23 +47,92 @@ git clone https://github.com/aminsarshar/PersonalWebSite.git
 bash
 Copy code
 cd PersonalWebSite
-فایل index.html را در مرورگر باز کنید.
-(هیچ ابزار جانبی لازم نیست)
+اجرای فایل index.html در مرورگر (نیازی به ابزار اضافه نیست).
 
-📌 Future Improvements / بهبودهای آینده
- Add blog/articles section | افزودن بخش وبلاگ
+📌 بهبودهای آینده
+ افزودن بخش وبلاگ / مقالات
 
- Improve SEO optimization | بهینه‌سازی سئو
+ بهینه‌سازی سئو
 
- Add dark mode | حالت تاریک
+ اضافه کردن حالت تاریک (Dark Mode)
 
- Connect contact form to backend/API | اتصال فرم تماس به بک‌اند یا API
+ اتصال فرم تماس به بک‌اند یا API
 
- More animations & interactivity | انیمیشن‌ها و تعامل بیشتر
+ افزودن انیمیشن‌ها و افکت‌های پیشرفته
 
-📝 License / مجوز
-English:
+📝 مجوز
+کلیه حقوق این وب‌سایت برای امین سرشار محفوظ است.
+
+yaml
+Copy code
+
+---
+
+## 📄 Full English Version
+
+```markdown
+# 🌐 Personal Website
+
+---
+
+## 🔗 Live Preview
+- [View Online](https://aminsarshar.github.io/PersonalWebSite/)
+
+---
+
+## 🧰 Technologies Used
+- HTML5  
+- CSS3 (Flexbox, Grid, Responsive)  
+- JavaScript (Vanilla)  
+- Hosting via GitHub Pages  
+
+---
+
+## 📂 Project Structure
+```text
+PersonalWebSite/
+│── index.html       # Home page
+│── about.html       # About me
+│── contact.html     # Contact page
+│── assets/          # Images & Icons
+│── css/             # Stylesheets
+│── js/              # Scripts
+│── README.md
+✨ Features
+🎨 Clean, modern, responsive design
+
+🧑‍💻 About me & online resume section
+
+📂 Portfolio showcase
+
+📬 Contact links & social media integration
+
+🌍 Bilingual support (Persian & English)
+
+🚀 How to Run
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/aminsarshar/PersonalWebSite.git
+Navigate to the project folder:
+
+bash
+Copy code
+cd PersonalWebSite
+Open index.html in your browser.
+(No additional tools required.)
+
+📌 Future Improvements
+ Add blog/articles section
+
+ Improve SEO optimization
+
+ Add dark mode
+
+ Connect contact form to backend/API
+
+ Add advanced animations & effects
+
+📝 License
 All rights reserved © Amin Sarshar
-
-فارسی:
-کلیه حقوق برای امین سرشار محفوظ است.
