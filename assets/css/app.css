@@ -34,26 +34,26 @@
 
 @font-face {
   font-family: yekan;
-  src: url("PersonalWebSite/assets/fonts/yekan-regular.eot"),
-    url("PersonalWebSite/assets/fonts/Yekan.woff") format("woff"),
-    url("PersonalWebSite/assets/fonts/yekan-regular.ttf") format("truetype");
+  src: url("/PersonalWebSite/assets/fonts/yekan-regular.eot"),
+    url("/PersonalWebSite/assets/fonts/Yekan.woff") format("woff"),
+    url("/PersonalWebSite/assets/fonts/yekan-regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: shabnam;
-  src: url("PersonalWebSite/assets/fonts/Shabnam-FD.eot"),
-    url("PersonalWebSite/assets/fonts/Shabnam-FD.woff") format("woff");
+  src: url("/PersonalWebSite/assets/fonts/Shabnam-FD.eot"),
+    url("/PersonalWebSite/assets/fonts/Shabnam-FD.woff") format("woff");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: tanha;
-  src: url("PersonalWebSite/assets/fonts/Tanha-FD.eot"),
-    url("PersonalWebSite/assets/fonts/Tanha-FD.woff") format("woff"),
-    url("PersonalWebSite/assets/fonts/Tanha-FD.ttf") format("truetype");
+  src: url("/PersonalWebSite/assets/fonts/Tanha-FD.eot"),
+    url("/PersonalWebSite/assets/fonts/Tanha-FD.woff") format("woff"),
+    url("/PersonalWebSite/assets/fonts/Tanha-FD.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
